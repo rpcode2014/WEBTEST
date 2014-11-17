@@ -141,7 +141,7 @@ header nav ul li a {
 }
 
 header nav ul li a:hover{
-    color: #65bf95;
+    color: red;
 }
 
 header ul.social{
