@@ -113,7 +113,7 @@ header .menu_icon{
 header nav{
     overflow: hidden;
     display: inline-block;
-    margin: 20px 0 0 40px;
+    margin: 10px 0 0 40px;
     padding: 13px 40px;
     border-left: 1px #404040 solid;
     z-index: 9999;
